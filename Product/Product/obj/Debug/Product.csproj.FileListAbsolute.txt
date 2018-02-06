@@ -1,0 +1,27 @@
+C:\Users\Mahmud\Desktop\Product\Product\bin\Debug\Product.exe.config
+C:\Users\Mahmud\Desktop\Product\Product\bin\Debug\Product.exe
+C:\Users\Mahmud\Desktop\Product\Product\bin\Debug\Product.pdb
+C:\Users\Mahmud\Desktop\Product\Product\obj\Debug\Product.csprojResolveAssemblyReference.cache
+C:\Users\Mahmud\Desktop\Product\Product\obj\Debug\Product.Properties.Resources.resources
+C:\Users\Mahmud\Desktop\Product\Product\obj\Debug\Product.csproj.GenerateResource.Cache
+C:\Users\Mahmud\Desktop\Product\Product\obj\Debug\Product.exe
+C:\Users\Mahmud\Desktop\Product\Product\obj\Debug\Product.pdb
+C:\Users\Mahmud\Desktop\Product\Product\obj\Debug\Product.productForm.resources
+G:\Product\Product\bin\Debug\Product.exe.config
+G:\Product\Product\obj\Debug\Product.exe
+G:\Product\Product\obj\Debug\Product.pdb
+G:\Product\Product\bin\Debug\Product.exe
+G:\Product\Product\bin\Debug\Product.pdb
+G:\Product\Product\obj\Debug\Product.csprojResolveAssemblyReference.cache
+G:\Product\Product\obj\Debug\Product.productForm.resources
+G:\Product\Product\obj\Debug\Product.Properties.Resources.resources
+G:\Product\Product\obj\Debug\Product.csproj.GenerateResource.Cache
+G:\Windows Form Application\Product Management System\Product\Product\bin\Debug\Product.exe.config
+G:\Windows Form Application\Product Management System\Product\Product\obj\Debug\Product.exe
+G:\Windows Form Application\Product Management System\Product\Product\obj\Debug\Product.pdb
+G:\Windows Form Application\Product Management System\Product\Product\bin\Debug\Product.exe
+G:\Windows Form Application\Product Management System\Product\Product\bin\Debug\Product.pdb
+G:\Windows Form Application\Product Management System\Product\Product\obj\Debug\Product.csprojResolveAssemblyReference.cache
+G:\Windows Form Application\Product Management System\Product\Product\obj\Debug\Product.productForm.resources
+G:\Windows Form Application\Product Management System\Product\Product\obj\Debug\Product.Properties.Resources.resources
+G:\Windows Form Application\Product Management System\Product\Product\obj\Debug\Product.csproj.GenerateResource.Cache
